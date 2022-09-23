@@ -16,7 +16,7 @@
 
 *******************
 9)	alter table concept add phonenumber varchar(10);/*To add additional column=alter table tablename add newcolumnname datatype()*/
-
+19999999999999 delete this code
 10)	update concept set phonenumber='7871265187' where name='Harivaratharaj';/*add values in new column and where to add the values=update tablename set newcolumnname='values' where oldcolumnname='values'*/
 11)	delete from concept where serial_number=1225;/*delete row=delete from tablename where columnname='values';*/
 
